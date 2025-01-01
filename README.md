@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Your trusted travel partner for unforgettable journeys</h3>
 
-<p align="left"> <img src="company-logo.jpeg" alt="Naria Travels & Tours" /> </p>
+
 
 <p align="left"> <a href="https://github.com/naria2050/naria2050"><img src="banner.webp" alt="naria2050" /></a> </p>
 
