@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="company-logo.jpeg" alt="Naria Travels & Tours" /> </p>
 
-<p align="left"> <a href="https://github.com/naria2050/naria2050"><img src="https://github-profile-trophy.vercel.app/?username=naria2050" alt="naria2050" /></a> </p>
+<p align="left"> <a href="https://github.com/naria2050/naria2050"><img src="./banner.webp
+" alt="naria2050" /></a> </p>
 
 - 🔭 We are currently working on **Building an Online Travel Booking Platform**
 
